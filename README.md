@@ -14,7 +14,10 @@
 - [x] ([link](surveys/part-05.md)) 储备知识调研
 
 ### Demo Engine 架构
-> TODO.
+- [ ] Design the `General Script` format
+- [ ] Format an example into `General Script`
+- [ ] Write the script parser with PLY/ANTLR4
+- [ ] (How to handle the AST with RenPy script?)
 
 ### 开发流程
 > TODO.
